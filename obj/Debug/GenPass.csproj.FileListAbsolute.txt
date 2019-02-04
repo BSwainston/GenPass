@@ -1,0 +1,9 @@
+C:\Users\Bryan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\GenPass.exe.config
+C:\Users\Bryan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\GenPass.exe
+C:\Users\Bryan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\GenPass.pdb
+C:\Users\Bryan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GenPass.mainForm.resources
+C:\Users\Bryan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GenPass.Properties.Resources.resources
+C:\Users\Bryan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GenPass.csproj.GenerateResource.cache
+C:\Users\Bryan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GenPass.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GenPass.exe
+C:\Users\Bryan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GenPass.pdb
